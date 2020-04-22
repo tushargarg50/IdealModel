@@ -8,10 +8,10 @@
 		<version>2.1.9.RELEASE</version>
 	</parent>
 	<groupId>com.tg</groupId>
-	<artifactId>JavabrainsUnit</artifactId>
+	<artifactId>IdealModel</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Java Brains UNIT Sessions</name>
-	<description>Tutorials by Java Brains</description>
+	<name>IdealModel</name>
+	<description>IdealModel for Junits</description>
 	<properties>
 		<java.version>8</java.version>
 	</properties>
